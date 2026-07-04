@@ -1,0 +1,46 @@
+[
+  {
+    "id": "admin",
+    "email": "admin@mettl.com",
+    "fullName": "Admin",
+    "password": "admin",
+    "role": "Admin",
+    "team": "Personality"
+  },
+  {
+    "id": "user-1782926054531",
+    "email": "1312788@example.com",
+    "empId": "1312788",
+    "password": "1312788",
+    "fullName": "Sagar Gupta",
+    "role": "Team Member",
+    "team": "Cognitive"
+  },
+  {
+    "id": "user-1782926148007",
+    "email": "1234@example.com",
+    "empId": "1234",
+    "password": "1234",
+    "fullName": "Sukhpreet",
+    "role": "Team Member",
+    "team": "Both"
+  },
+  {
+    "id": "user-1782926166451",
+    "email": "1111@example.com",
+    "empId": "1111",
+    "password": "1111",
+    "fullName": "Ameya",
+    "role": "Team Member",
+    "team": "Personality"
+  },
+  {
+    "id": "user-1783182433918",
+    "email": "11@company.com",
+    "empId": "11",
+    "password": "4fc82b26aecb47d2868c4efbe3581732a3e7cbcc6c2efb32062c08170a05eeb8",
+    "fullName": "11",
+    "role": "Team Member",
+    "team": "Cognitive"
+  }
+]
