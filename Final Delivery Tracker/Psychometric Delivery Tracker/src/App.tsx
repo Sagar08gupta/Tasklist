@@ -461,12 +461,9 @@ export default function App() {
           <div className="flex items-center gap-3">
             {/* Home Button — Phase 2 */}
             <button
-              onClick={() => {
-                setActiveTab(currentUser.role === 'Admin' ? 'dashboard' : 'myTasks');
-                setEditingTicket(null);
-              }}
+              onClick={handleLogout}
               className="flex items-center gap-1.5 px-2.5 py-1.5 bg-white/10 hover:bg-white/20 text-white text-xs font-semibold rounded-xl border border-white/20 transition-all cursor-pointer"
-              title="Go to Home / Dashboard"
+              title="Go to Login Page"
               id="header-home-btn"
             >
               <Home size={14} />
